@@ -5,5 +5,6 @@ public class Main {
         System.out.println("main");
         System.out.println("ceva");
         System.out.println("login");
+        System.out.println("Something is great!");
     }
 }
